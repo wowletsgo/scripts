@@ -1,10 +1,11 @@
 How to setup
 
 step 1.
-go into your exploits workspace and replace the vape folder with the one in this github
+go into your exploits workspace folder and replace the vape folder with the one in this github (install code as a zip to get folder)
 if you do not have vape folder then execute vape
 step 2.
-open up the lingervapeconfigmainscript
+open up the MainRoot Script
+Do NOT open the one that says lingervapeconfigmainscript
 Do NOT open the one that says do not execute
 step 3.
 after opening it up paste the code within the lua file
