@@ -1,0 +1,4 @@
+-- linger vape config
+-- must have the config setup before using (in github)
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/wowletsgo/scripts/main/lingervapeconfigloader'),true))()
